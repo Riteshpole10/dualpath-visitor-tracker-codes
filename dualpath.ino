@@ -1,3 +1,4 @@
+/Ritesh Pole./
 void(* resetFunc) (void) = 0; //declaring reset func at address 0
 //defining the pins
 #define trig2 5
